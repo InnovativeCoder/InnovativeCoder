@@ -1,5 +1,7 @@
 # Hi there 👋
 
+[![HitCount](http://hits.dwyl.com/InnovativeCoder/InnovativeCoder.svg)](http://hits.dwyl.com/InnovativeCoder/InnovativeCoder)
+
 ### “ In a time of drastic change it is the learners who inherit the future. The learned usually find themselves equipped to live in a world that no longer exists. ” - Eric Hoffer
 
 My life gist :
