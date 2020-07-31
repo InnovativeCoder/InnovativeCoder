@@ -4,13 +4,13 @@
 
 ### “ In a time of drastic change it is the learners who inherit the future. The learned usually find themselves equipped to live in a world that no longer exists. ” - Eric Hoffer
 
-My life gist :
+My life thumbnail sketch :
 
 - 🔭 I’m currently working on Innovative Labs, and trying to provide best content on web development for FREE.
 - 📚 What do I beleive? Jack of all, Master of some.
 - 🌱 I’m currently learning to manage my time, and be productive.
 - 👯 I’m looking to collaborate on any idea that impresses me.
-- 💬 Ask me about Web Development, Machine Learning, Design, Marketing, Sales, Community Building
+- 💬 Ask me about Web Development, Machine Learning, Design, Marketing, Sales, Community Building.
 - 📫 How to reach me: [Innovative Coder](https://www.instagram.com/innovative_coder/?hl=en)
 - ⚡ Fun fact: I love Irish Coffee ☕
 
