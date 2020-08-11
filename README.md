@@ -5,7 +5,7 @@
 <a href="https://www.youtube.com/channel/UCKQOUcqLLQXWLKUAQbfKiNQ">
   <img align="left" alt="asneet Singh - Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>
 </a>
-<a href="https://linkedin.com/in/jasneet-ml7">
+<a href="https://linkedin.com/in/jasneet-ml">
   <img align="left" alt="Jasneet Singh - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
 <a href="https://www.instagram.com/innovative_coder/">
