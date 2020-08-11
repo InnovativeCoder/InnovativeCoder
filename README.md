@@ -2,6 +2,21 @@
 
 [![HitCount](http://hits.dwyl.com/InnovativeCoder/InnovativeCoder.svg)](http://hits.dwyl.com/InnovativeCoder/InnovativeCoder)
 
+<a href="https://www.youtube.com/channel/UCKQOUcqLLQXWLKUAQbfKiNQ">
+  <img align="left" alt="asneet Singh - Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>
+</a>
+<a href="https://linkedin.com/in/jasneet-ml7">
+  <img align="left" alt="Jasneet Singh - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+</a>
+<a href="https://www.instagram.com/innovative_coder/">
+  <img align="left" alt="Innovative Coder - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
+</a>
+<a href="https://twitter.com/InnovativeCoder">
+  <img align="left" alt="Jasneet Singh - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
+</a>
+<br />
+<br />
+
 ### “ In a time of drastic change it is the learners who inherit the future. The learned usually find themselves equipped to live in a world that no longer exists. ” - Eric Hoffer
 
 My life thumbnail sketch :
