@@ -1,6 +1,5 @@
 # Hi there 👋
 
-[![HitCount](http://hits.dwyl.com/InnovativeCoder/InnovativeCoder.svg)](http://hits.dwyl.com/InnovativeCoder/InnovativeCoder)
 
 <a href="https://www.youtube.com/channel/UCKQOUcqLLQXWLKUAQbfKiNQ">
   <img align="left" alt="asneet Singh - Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>
