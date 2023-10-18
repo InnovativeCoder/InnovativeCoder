@@ -1,31 +1,20 @@
 # Hi there 👋
 
-
-<a href="https://www.youtube.com/channel/UCKQOUcqLLQXWLKUAQbfKiNQ">
-  <img align="left" alt="asneet Singh - Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>
-</a>
 <a href="https://linkedin.com/in/jasneet-ml">
   <img align="left" alt="Jasneet Singh - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
-</a>
-<a href="https://www.instagram.com/innovative_coder/">
-  <img align="left" alt="Innovative Coder - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
-</a>
-<a href="https://twitter.com/InnovativeCoder">
-  <img align="left" alt="Jasneet Singh - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
 </a>
 <br />
 <br />
 
 ### “ In a time of drastic change it is the learners who inherit the future. The learned usually find themselves equipped to live in a world that no longer exists. ” - Eric Hoffer
 
-My life thumbnail sketch :
+My professional life in a gist :
 
-- 🔭 I’m currently working on Innovative Labs, and trying to provide best content on web development for FREE.
-- 📚 What do I beleive? Jack of all, Master of some.
+- 🔭 I’m currently working at Vanier College as a Developer.
+- 📚 What do I believe? Solve second-order problems using first principles.
 - 🌱 I’m currently learning to manage my time, and be productive.
 - 👯 I’m looking to collaborate on any idea that impresses me.
-- 💬 Ask me about Web Development, Machine Learning, Design, Marketing, Sales, Community Building.
-- 📫 How to reach me: [Innovative Coder](https://www.instagram.com/innovative_coder/?hl=en)
+- 💬 Ask me about Web Development, Machine Learning, Design, Marketing, Sales, and Community Building.
 - ⚡ Fun fact: I love Irish Coffee ☕
 
 I strongly believe that constant learning is a part of our journey,
